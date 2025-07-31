@@ -1,0 +1,29 @@
+
+{
+  "name": "PixelSift - Free Online Image Converter",
+  "short_name": "PixelSift",
+  "description": "Convert images between PNG, JPG, WebP, AVIF, and PDF formats. Fast, secure, and completely free.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "en"
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pixelsift.me/sitemap.xml
+
+# Optimize crawl budget
+Crawl-delay: 1
