@@ -1,7 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://pixelsift.me/sitemap.xml
-
-# Optimize crawl budget
-Crawl-delay: 1
+Sitemap: https://pixelshift-i2lw.onrender.com/sitemap.xml
